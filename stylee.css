@@ -1,0 +1,61 @@
+
+.container {
+    height: 80%;
+    width: 20%;
+border: 1px solic black;
+display: flex;
+
+}
+
+.conteiner1 {
+    position: absolute;
+    height: 600px;
+    width: 20%;
+border: 1px solic rgb(72, 21, 165);
+
+
+
+}
+
+.graustop{text-align: center;}
+.grausbot{text-align: center;}
+
+.graus {
+padding-top: 25.7px;
+padding-bottom: 25.7px;
+text-align: center;
+
+}
+
+.cont1 { 
+    height: 91%;
+    width: 60px;
+    margin-top: 10%;
+    margin-left: 40px;
+    margin-bottom: 10%;
+    border-radius: 30px;
+    
+    background-color: rgb(218, 13, 13);
+    
+}
+#cont2 { 
+    height: 35%;
+    width: 60px;
+    margin-top: 10%;
+    margin-left: 40px;
+    margin-bottom: 10%;
+    border-radius: 30px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    position: absolute;
+    background-color: aqua;
+    
+}
+
+.termometro {
+    height: 600px;
+    width: 150px;
+border: 1px;
+display: flex;
+        
+}
